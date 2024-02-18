@@ -6,5 +6,6 @@ Data Science Projects
 ## Iris Flower Classification 
 
 ## Movie Statistics Regression Analysis (KNN)
-
+<!--
 ## Credit Card Fraud Detection 
+--->
