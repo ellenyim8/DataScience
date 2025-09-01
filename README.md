@@ -1,11 +1,3 @@
-# DataScience
-Data Science Projects
+# Data Projects 
+by Ellen Y. 
 
-## Sales Prediction using Linear Regression 
-
-## Iris Flower Classification 
-
-## Movie Statistics Regression Analysis (KNN)
-<!--
-## Credit Card Fraud Detection 
---->
